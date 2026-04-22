@@ -1,8 +1,10 @@
 СКАЧИВАТЬ НАДО С REALISES
 
-ДЛЯ ОТКРЫТИЯ ЭТОЙ GUI НАДО СКАЧАТЬ PYTHON (ФАЙЛ СНИЗУ) И ДОБАВИТЬ В PATH
+ДЛЯ ОТКРЫТИЯ ЭТОЙ GUI НАДО СКАЧАТЬ PYTHON (ФАЙЛ В REALISES) И ДОБАВИТЬ В PATH
 И КОГДА СКАЧАЕШЬ ОТКРОЙ КОМАНДНУЮ СТРОКУ И НАПИШИ ТУДА:
-pip install PyQt6 И pip install requests
+pip install PyQt6
+И
+pip install requests
 
 И ПОТОМ МОЖЕШЬ ОТКРЫТЬ gui.py
 
