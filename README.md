@@ -4,7 +4,7 @@ pip install PyQt6
 ,
 pip install requests
 И
-pip install websocked
+pip install websockets
 
 И ПОТОМ МОЖЕШЬ ОТКРЫТЬ gui.py
 
